@@ -14,6 +14,8 @@ All examples use one consistent fictional company (Metamorfeus) — synthetic da
 
 Rolling Cowork out across a team? We run [live team training workshops](https://claudecoworktraining.com/teams/training/).
 
+Created and maintained by [Peter Velinov](https://claudecoworktraining.com/about/), Claude Certified Architect – Foundations and founder of [Metamorfeus](https://metamorfeus.com). Metamorfeus, the example company in these materials, is a fictionalized version of his real consultancy — all course data is synthetic.
+
 ---
 
 *Independent training resource. Not affiliated with or endorsed by Anthropic. Claude and Claude Cowork are trademarks of Anthropic, PBC.*
