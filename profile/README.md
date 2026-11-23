@@ -19,3 +19,14 @@ Created and maintained by [Peter Velinov](https://claudecoworktraining.com/about
 ---
 
 *Independent training resource. Not affiliated with or endorsed by Anthropic. Claude and Claude Cowork are trademarks of Anthropic, PBC.*
+
+## About the author
+
+Claude Cowork Training is made by Peter Velinov / Metamorfeus.
+
+- [Metamorfeus](https://metamorfeus.com/) — Custom AI automation services for business processes.
+- [Metamorfeus products](https://metamorfeus.com/shop/) — Paid offerings including AI audits, workforce automation and employee AI training.
+- [Claude Cowork Training](https://claudecoworktraining.com/) — Independent, free self-paced training for everyday work, with paid team workshops; using Cowork requires a paid Claude plan.
+- [Management Assistant](https://assistant.metamorfeus.com/) — Turns meeting audio or transcripts into draft minutes for review and keeps tasks, owners and due dates together.
+
+Some linked products and services are paid. The free course, workflows and prompts published here stay free and work without any of them. Independent; not affiliated with or endorsed by Anthropic.
